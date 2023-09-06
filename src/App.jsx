@@ -1,4 +1,5 @@
 import "./App.css";
+import Nav from "./components/Nav";
 import {
   Hero,
   Footer,
@@ -11,7 +12,7 @@ import {
 } from "./sections";
 const App = () => (
   <main className="relative">
-    Nav
+    <Nav />
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
     </section>
