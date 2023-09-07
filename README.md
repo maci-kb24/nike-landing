@@ -1,6 +1,6 @@
 # React + Vite
 
-##What i've learned?
+## What i've learned?
 
 - Add prop-types rule @estlintrc
 - Import and export component in one file for more efficient use
